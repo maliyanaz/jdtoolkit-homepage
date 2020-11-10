@@ -19,7 +19,7 @@ header{
 nav {
 	
     
-	padding: 15px; /* Logic: using padding for margins. See padding note in the nav li style rule. \ .25 */
+	padding: 15px; 
 	font-weight: 400;
 	font-size: 20px;
 }
@@ -34,8 +34,7 @@ nav li {
 	margin-right: 12px;
 	border: dotted;
 	border-color: #000000;
-	/* Omission: neglected to set border thickness \ -.5 */
-	/* Omission: This is where padding should be assigned \ .25 */
+	
 }
 nav a {
 	color: #000000;
@@ -63,7 +62,8 @@ h2 {
 	margin-bottom: .25em;
 	margin-top: 1.25em;
 }
-/* Clutter: no H3 in the HTML \ .25 */
+
+
 h3 {
 	font-size: 1.3rem;
 	font-weight: normal;
