@@ -1,0 +1,186 @@
+
+html {
+ background-color: #EBDED1;
+color: rgba(#000000);
+font-family: Georgia, sans-serif; 
+font-size: 20px;
+
+}
+
+
+header{
+    
+    font-style: italic;
+    
+    
+
+}
+
+nav {
+	
+    
+	padding: 15px; /* Logic: using padding for margins. See padding note in the nav li style rule. \ .25 */
+	font-weight: 400;
+	font-size: 20px;
+}
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+nav li {
+	display: inline;
+	margin-left: 12px;
+	margin-right: 12px;
+	border: dotted;
+	border-color: #000000;
+	/* Omission: neglected to set border thickness \ -.5 */
+	/* Omission: This is where padding should be assigned \ .25 */
+}
+nav a {
+	color: #000000;
+	text-decoration: none;
+ }
+
+
+/* heading styling*/
+
+h1, h2, h3 {
+	font-family: Serif;
+	color: #000000;
+	font-style: italic;
+
+}
+h1 {
+	font-size: 2.2rem;
+	text-align: center;
+	
+}
+h2 {
+	font-size: 1.5rem;
+	text-decoration: underline;
+	text-align: center;
+	margin-bottom: .25em;
+	margin-top: 1.25em;
+}
+/* Clutter: no H3 in the HTML \ .25 */
+h3 {
+	font-size: 1.3rem;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+
+p {
+	line-height: 1.5em;
+	
+	
+    
+
+}
+
+.formula{
+       font-family: Serif;
+       color: black;    
+       font-size: 30px
+      
+}
+
+
+dt{
+   font-family: Serif;
+   font-size: 25px;
+   color: #000000;
+
+
+}
+
+dd{
+ 
+  font-size: 20px;
+
+
+}
+
+
+
+
+/*styling images*/
+
+img{
+   
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  vertical-align: text-top;
+  
+
+}
+
+
+
+
+.person img{
+     height: 60vh;
+     width: auto;
+     border: 7px solid #000000; 
+}
+
+.closeup img{ 
+
+border-radius: 20%;
+
+}
+
+.under img{ 
+ 
+outline-style: dotted;
+  
+
+}
+.circle img {
+
+  width: 284px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+
+
+}
+.mosque img{
+ border-style: solid;
+border-bottom-color: coral;
+border-top-color: coral;
+padding: 15px;
+
+
+}
+.over figcaption{
+       font-size: 40px;
+       font-family:serif;
+       text-align: center;
+       color: #000000;
+}
+
+body{
+
+   margin: 50px;
+   
+}
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
