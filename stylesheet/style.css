@@ -1,6 +1,6 @@
 
 html {
- background-color: #EBDED1;
+background-color: #EBDED1;
 color: rgba(#000000);
 font-family: 'Slabo 27px', serif;
 font-size: 20px;
@@ -73,6 +73,7 @@ h3 {
 
 p {
 	line-height: 1.5em;
+	font-family: 'Slabo 27px', serif;
 	
 	
     
