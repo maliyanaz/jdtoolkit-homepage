@@ -2,7 +2,7 @@
 html {
  background-color: #EBDED1;
 color: rgba(#000000);
-font-family: Georgia, sans-serif; 
+font-family: 'Slabo 27px', serif;
 font-size: 20px;
 
 }
@@ -45,7 +45,7 @@ nav a {
 /* heading styling*/
 
 h1, h2, h3 {
-	font-family: Serif;
+	font-family: serif;
 	color: #000000;
 	font-style: italic;
 
